@@ -1,0 +1,30 @@
+guitar {
+  background-color: #ffffff;
+  width: 100%;
+}
+
+body {
+  display: block;
+  margin-bottom: 30pt;
+  margin-left: 0;
+}
+
+mfg {
+  display: block;
+  color: #ff0000;
+  font-size: 20pt;
+}
+
+model {
+  display: block;
+  color: #0000ff;
+  font-size: 20pt;
+}
+
+year,
+price,
+pickup {
+  display: block;
+  color: #000000;
+  margin-left: 20pt;
+}
