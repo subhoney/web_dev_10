@@ -5,7 +5,7 @@ Based on the information and requirements provided in Exercise 7.1, 7.2, 7.3 fro
 
 1. Create an XML document with at least three instances (15points)
 
-2. Display the xml properly using css(15 points) ( don't need to display attribute using css)
+2. Display the xml properly using css(15 points) (don't need to display attribute using css)
 
 3. Display the XML instances using JavaScript(follow the JavaScript example provided for cd_catalog. Note: Test it using Firefox, IE does not work) (20points)
 
