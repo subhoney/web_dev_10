@@ -1,17 +1,17 @@
 guitars {
-  background-color: #ffffff;
+  background-color: #000000;
   width: 100%;
 }
 
 mfg {
   display: block;
-  color: #800080;
+  color: #9289ff;
   font-size: 20pt;
 }
 
 model {
   display: block;
-  color: #9289ff;
+  color: #800080;
   font-size: 16pt;
 }
 
@@ -19,6 +19,6 @@ year,
 price,
 pickup {
   display: block;
-  color: #000000;
+  color: #ffffff;
   margin-left: 20pt;
 }
