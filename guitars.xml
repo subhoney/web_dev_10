@@ -1,0 +1,42 @@
+<guitars>
+    <guitar category="single coil">
+        <body>S-style</body>
+        <mfg>Fender</mfg>
+        <model>Stratocaster Player's<model>
+        <year>1991</year>
+        <price>2600.00</price>
+        <pickup>SSS</pickup>
+    </guitar>
+    <guitar category="single coil">
+        <body>T-style</body></body>
+        <mfg>Fender</mfg>
+        <model>Telecaster Deluxe Reissue<model>
+        <year>2016</year>
+        <price>750.00</price>
+        <pickup>SSS</pickup>
+    </guitar>
+    <guitar category="single coil">
+        <body>T-style</body>
+        <mfg>Warmoth</mfg>
+        <model>Custom<model>
+        <year>2005</year>
+        <price>900.00</price>
+        <pickup>SSS</pickup>
+    </guitar>
+    <guitar category="humbucker">
+        <body>LP-style</body>
+        <mfg>Gibson</mfg>
+        <model>Les Paul Custom<model>
+        <year>2008</year>
+        <price>3000.00</price>
+        <pickup>HH</pickup>
+    </guitar>
+    <guitar category="humbucker">
+        <body>SG-style</body>
+        <mfg>Gibson</mfg>
+        <model>SG Standard<model>
+        <year>2012</year>
+        <price>1750.00</price>
+        <pickup>HH</pickup>
+    </guitar>
+</guitars>
